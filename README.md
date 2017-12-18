@@ -32,30 +32,30 @@ Hey guys! I was thinking that we could spend some time to structure the way we w
 ### 進行:
 team lead or team member
 
-Materials:
-- Team Canvas Basic recreated on a whiteboard, or on a big enough piece of paper (e.g. flipchart paper or A0/A1)
-- Blocks of sticky notes, one for each participant, different colors
-- Sharpies or pens to write on stickies (use thick enough pens so everyone can see the writing)
-- A device with a timer function
+準備するもの:
+- 「チームキャンバスベーシック」をホワイトボードまたは大きな紙（フリップチャートなど）に描く
+- 様々な色の付箋紙
+- 付箋紙に描くためのペン（字がよく読めるように太字のもの）
+- 時間が測れるもの
 
-### Running the session
-Introduce the team canvas as a tool to align the team members and get better at understanding goals, roles and values of your team.
+### 進め方
+「チームキャンバスを」チームの方向性をまとめるためのツールとして紹介してください。このセッションでチームのゴール、役割、価値の理解を促進します。
 
-Go through each step with the team, making sure you ask the questions for each segment. Encourage people to write their answers on stickies and talk about them with the team. Make sure to agree on all fields.
+チームとここで説明するステップを進んでください。それぞれのエリアで質問することを心掛けてください。答えを付箋紙に描き、それについて話し合うようにチームを導いてください。それぞれのエリアでの合意形成をするようにしてください。
 
 Use timer for each step to apply some time pressure so the team really focuses on getting to the point in each section discussion.
 
 If some conversations take rather long time or seem to touch upon bigger issues, consider parking those questionsthem during the Team Canvas session and planning a separate meeting to address them specifically..
 
-### 1. Goals [5 minutes]
+### 1. ゴール [5分間]
 Ask the team members to agree on common goals and mention their personal goals for the project.
 
-Questions:
+質問:
 
 - What we as a group really want to achieve? What is our key goal that is feasible, measurable and time-bounded?
 - What are our personal goals that we want to share with each other?
 
-Examples:
+例:
 
 - Become the leading car sharing company in our region by 2017.
 - Create a 100M company in the area of Internet of Things by fall 2016.
