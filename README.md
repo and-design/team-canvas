@@ -92,7 +92,7 @@ team lead or team member
 
 質問:
 
-- What do we stand for?
+- 私たちは何を代表しているのでしょうか?
 - 私たちにとっての基本原則は?
 - 共通の価値の中で中心とすべきものは?
 
@@ -107,16 +107,16 @@ team lead or team member
 - リスペクト
 
 #### 5. ルールと活動 [10分間]
-Ask the team to agree on common rules and activities. Think of this as of outcome of the previous sections: a concrete set of rules and activities they want to implement.
+ルールと活動について合意してください。これまでのエリアの結果だと考えてください。チームで導入したいルールや活動を考えてください。
 
-Questions:
+質問:
 
 - What are the rules we want to introduce after doing this session?
 - How do we communicate and keep everyone up to date?
 - How do we make decisions?
 - How do we execute and evaluate what we do?
 
-Examples:
+例:
 
 - Keeping things within group confidential
 - Weekly status updates
