@@ -27,3 +27,35 @@ Hey guys! I was thinking that we could spend some time to structure the way we w
 ## Running The Session
 ### Duration:
 30-45 minutes
+### Participants:
+2 - 8
+### Facilitation:
+team lead or team member
+
+Materials:
+- Team Canvas Basic recreated on a whiteboard, or on a big enough piece of paper (e.g. flipchart paper or A0/A1)
+- Blocks of sticky notes, one for each participant, different colors
+- Sharpies or pens to write on stickies (use thick enough pens so everyone can see the writing)
+- A device with a timer function
+
+### Running the session
+Introduce the team canvas as a tool to align the team members and get better at understanding goals, roles and values of your team.
+
+Go through each step with the team, making sure you ask the questions for each segment. Encourage people to write their answers on stickies and talk about them with the team. Make sure to agree on all fields.
+
+Use timer for each step to apply some time pressure so the team really focuses on getting to the point in each section discussion.
+
+If some conversations take rather long time or seem to touch upon bigger issues, consider parking those questionsthem during the Team Canvas session and planning a separate meeting to address them specifically..
+
+### 1. Goals [5 minutes]
+Ask the team members to agree on common goals and mention their personal goals for the project.
+
+Questions:
+
+- What we as a group really want to achieve? What is our key goal that is feasible, measurable and time-bounded?
+- What are our personal goals that we want to share with each other?
+
+Examples:
+
+- Become the leading car sharing company in our region by 2017.
+- Create a 100M company in the area of Internet of Things by fall 2016.
