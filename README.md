@@ -1,8 +1,8 @@
 # チームキャンバスの使い方
 チームメンバーの活性化は時間、共有する価値、保管するスキルとお互いの信頼がカギです。この醸成を加速させることができるでしょうか。このガイドを使いチームキャンバスのセッションを通じてチームの方向性を一つにまとめてみましょう。「チームキャンバス」とその簡易版の「チームキャンバスベーシック」の両方についてそれぞれ説明します。
 
-# チームキャンバスベーシック
-## 目的
+## チームキャンバスベーシック
+### 目的
 簡易版の「チームキャンバスベーシック」はプロジェクトをスタートさせたり、共通のビジョンに向けてまとまるための戦略的フレームワークです。私たちのスタートアップやクリエイティブなプロジェクトでの経験を通じて作成しています。プロジェクトでのチームワークをスムースに進められるよう、お互いのことを学び推進力を蓄積します。
 
 「チームキャンバスベーシック」は以下のケースで使うと効果的です。
@@ -12,7 +12,7 @@
 - 新しいメンバーの迎え入れ (例：フリーランスの人がチームに参加など)
 - 基本的なチームの結束
 
-## オンボーディング
+### オンボーディング
 「チームキャンバスベーシック」をはじめる前にオンボーディング（紹介）をすることをおススメします。いくつかオンボーディングのアイデアをご紹介します。
 
 **チームの発足**
@@ -24,12 +24,12 @@ Hey guys, we have Marie joining the team this week. I thought it might be useful
 **チームの結束**
 Hey guys! I was thinking that we could spend some time to structure the way we work together. There is a good tool for that called Team Canvas. It might help us understand what we do and why, where we aim at and what our guiding principles are, so we are more aligned as a team. What would you say if we schedule half an hour meeting to quickly go through Team Canvas steps?
 
-## セッション概要
-### 時間:
+### セッション概要
+#### 時間:
 30-45 minutes
-### 参加者:
+#### 参加者:
 2 - 8
-### 進行:
+#### 進行:
 team lead or team member
 
 準備するもの:
@@ -47,7 +47,7 @@ Use timer for each step to apply some time pressure so the team really focuses o
 
 If some conversations take rather long time or seem to touch upon bigger issues, consider parking those questionsthem during the Team Canvas session and planning a separate meeting to address them specifically..
 
-### 1. ゴール [5分間]
+#### 1. ゴール [5分間]
 Ask the team members to agree on common goals and mention their personal goals for the project.
 
 質問:
@@ -60,7 +60,7 @@ Ask the team members to agree on common goals and mention their personal goals f
 - Become the leading car sharing company in our region by 2017.
 - Create a 100M company in the area of Internet of Things by fall 2016.
 
-### 2. Roles & Skills [5 minutes]
+#### 2. Roles & Skills [5 minutes]
 Ask people to put their names on stickies, as well as their roles. If a person has multiple roles, use separate post-its.
 
 Questions:
@@ -74,7 +74,7 @@ Examples:
 - Max: CEO; Marie: Design & Programming
 - Name of the team: BoldCar
 
-### 3. Purpose [10 minutes]
+#### 3. Purpose [10 minutes]
 Ask the team to go one step beyond their common goal, and ask them why they do what they do.
 
 Questions:
@@ -87,7 +87,7 @@ Examples:
 - Create positive impact on people's lives through social innovation
 - Make people’s life easier and stress-free through innovation in the field of Internet of Things
 
-### 4. Values [5 minutes]
+#### 4. Values [5 minutes]
 Ask the team what are the core values - the most important principles - that they want to share within the team. The team should agree on values, so everyone accepts the final set.
 
 Questions:
@@ -106,7 +106,7 @@ Examples:
 - Equality
 - Respect
 
-### 5. Rules & Activities [10 minutes]
+#### 5. Rules & Activities [10 minutes]
 Ask the team to agree on common rules and activities. Think of this as of outcome of the previous sections: a concrete set of rules and activities they want to implement.
 
 Questions:
@@ -125,12 +125,12 @@ Examples:
 - Workday: starting from 9 to 10, meetings start at 10
 - Keeping workday to 8 hours, except when it’s needed to shorten it a bit towards more
 
-### Wrap up [5 minutes]
+#### Wrap up [5 minutes]
 As you close The Team Canvas workshop, ask the team members to tell about one single most important insight that they gained during the workshop.
 
 It is recommended to repeat the Teamwork Canvas session with each new member joining the team.
 
-## Strategy
+### Strategy
 Team Canvas Basic consists of 3 key areas:
 
 1. What the team is: roles and goals
