@@ -1,7 +1,7 @@
 # How To Use Team Canvas
 Making team members click is a matter of time, shared values, complimentary skills and mutual trust. Can you accelerate the process? We bet you can. Follow this elaborate How-To Guide to facilitate team alignment session with Team Canvas.
 
-#Team Canvas Basic
+# Team Canvas Basic
 ## Objective
 Team Canvas Basic is a strategic framework that helps team members to kick off projects and align on common vision. Based on our experience with startups and creative groups, it is made to smoothly start collective projects, let people learn about each other and accumulate enough momentum to get going.
 
