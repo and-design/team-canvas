@@ -43,51 +43,51 @@ team lead or team member
 
 チームとここで説明するステップを進んでください。それぞれのエリアで質問することを心掛けてください。答えを付箋紙に描き、それについて話し合うようにチームを導いてください。それぞれのエリアでの合意形成をするようにしてください。
 
-Use timer for each step to apply some time pressure so the team really focuses on getting to the point in each section discussion.
+タイマーを使ってそれぞれのステップをタイトにしましょう。チームがフォーカスしてポイントを絞った議論ができるよう促しましょう。
 
-If some conversations take rather long time or seem to touch upon bigger issues, consider parking those questionsthem during the Team Canvas session and planning a separate meeting to address them specifically..
+もし、大きな課題に当たり、議論に時間がかかりそうな場合は「パーキングロット」にその議題を入れておいて、「チームキャンバス」の後に別の話し合いの機会を設けるようにしましょう。
 
 #### 1. ゴール [5分間]
-Ask the team members to agree on common goals and mention their personal goals for the project.
+まず共通のゴールについて合意します。このプロジェクトに向けた個人的なゴールも話してください。
 
 質問:
 
-- What we as a group really want to achieve? What is our key goal that is feasible, measurable and time-bounded?
-- What are our personal goals that we want to share with each other?
+- このグループは何を達成したいのでしょうか？実行可能な、計測可能な、時間内に達成できるゴールは何でしょうか？
+- それぞれの個人的なゴールは何でしょうか？他の人と共有してもらえますか？
 
 例:
 
-- Become the leading car sharing company in our region by 2017.
-- Create a 100M company in the area of Internet of Things by fall 2016.
+- 2018年までに地域で一番のカーシェアになる
+- 2019年の秋までにIoTの分野で100億円企業となる
 
-#### 2. Roles & Skills [5 minutes]
-Ask people to put their names on stickies, as well as their roles. If a person has multiple roles, use separate post-its.
+#### 2. 役割とスキル [5分間]
+付箋紙に自分の名前と役割を書いてください。複数の役割がある場合は複数の付箋紙を使ってください。
 
-Questions:
+質問:
 
-- What are our names?
-- What are the roles we have in the team?
-- How are we called as a team?
+- 名前は何ですか?
+- チームでの役割は何ですか?
+- チームの名前は何ですか?
 
-Examples:
+例:
 
-- Max: CEO; Marie: Design & Programming
-- Name of the team: BoldCar
+- マックス: CEO; マリー: デザイン
+- チーム名: ボールドカー
 
-#### 3. Purpose [10 minutes]
-Ask the team to go one step beyond their common goal, and ask them why they do what they do.
+#### 3. 目的 [10分間]
+共通のゴールから一歩進んで、「なぜそれをやるのか」を聞いてください。
 
-Questions:
+質問:
 
-- Why are we doing what we are doing in the first place?
-- What is something more important, which makes us pursue our common goal?
+- なぜそもそもそれをやるんですか?
+- 共通のゴールを追いかける原動力となるもっと大事なことは何ですか?
 
-Examples:
+例:
 
-- Create positive impact on people's lives through social innovation
-- Make people’s life easier and stress-free through innovation in the field of Internet of Things
+- ソーシャルイノベーションを通じて人々の暮らしにポジティブなインパクトを与える
+- IoTの分野におけるイノベーションで人がストレスなく暮らすことができるようにする
 
-#### 4. Values [5 minutes]
+#### 4. 価値 [5分間]
 Ask the team what are the core values - the most important principles - that they want to share within the team. The team should agree on values, so everyone accepts the final set.
 
 Questions:
