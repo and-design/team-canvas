@@ -111,35 +111,32 @@ team lead or team member
 
 質問:
 
-- What are the rules we want to introduce after doing this session?
-- How do we communicate and keep everyone up to date?
-- How do we make decisions?
-- How do we execute and evaluate what we do?
+- このセッションの後チームで導入したいルールは何でしょうか?
+- メンバーと意思疎通をして情報がいきわたるようにするにはどうしたらいいでしょうか?
+- どのように物事を決めていきますか?
+- どのように実行して評価していきますか?
 
 例:
 
-- Keeping things within group confidential
-- Weekly status updates
-- Communication over Slack + Skype for calls
-- Dinners together every second week (Max as organizer)
-- Workday: starting from 9 to 10, meetings start at 10
-- Keeping workday to 8 hours, except when it’s needed to shorten it a bit towards more
+- 情報はグループ内にとどめておく
+- 週次報告
+- SlackとSkypeでコミュニケーションする
+- 月の第二週にチームディナーをする（マックスが主催）
+- 稼働日: 9時から10時の間に始業。ミーティングは10時から
+- 稼働時間は8時間かそれ以内
 
 #### まとめ [5分間]
-As you close The Team Canvas workshop, ask the team members to tell about one single most important insight that they gained during the workshop.
+「チームキャンバス」セッションの終わりに、各メンバーに一番の学びのポイントを聞いてください。
 
-It is recommended to repeat the Teamwork Canvas session with each new member joining the team.
+新しいメンバーが増えるときは「チームキャンバス」を行うことをおススメします。
 
 ### 戦略
-Team Canvas Basic consists of 3 key areas:
+「チームキャンバスベーシック」には三つのエリアがあります:
 
-1. What the team is: roles and goals
-1. Why the team is doing what it's doing: purpose and values
-1. How the team is going to achieve what it needs to achieve: rules and activities
+1. チームは何か: 役割とゴール
+1. なぜ活動するのか: 目的と価値
+1. どのように達成するのか: ルールと活動
 
-As a facilitator of the session, you might be asked something like this: ‘How are we supposed to answer this question? What is that you expect us to say here?’, etc. It is important to understand that The Team Canvas creates context for the team, rather then content, and therefore all answers are valid. Gently reply to such questions: 'How would you answer if you knew? What do you think the answer should be?'
+セッションの進行役として、チームからこのような質問を受けると思います。「どのように答えたらいいですか? 」「ここではどういう回答を期待していますか?」など。「チームキャンバス」はコンテントを作る作業ではなくコンテキストを作る作業です。つまり、どのような回答でも構いません。新設にこのように回答してください。「それを知っていたらどのように回答しますか?回答はどうあるべきでしょうか?」
 
-Team Canvas Basic is working well with short-term projects and for the purpose of kicking off a new team. If you want to align on common vision and resolve conflict, or create great team bonding for a longer project, consider using Team Canvas Complete.
-
-
-
+「チームキャンバスベーシック」は短期間のプロジェクトや新しいしチームの発足に適しています。共通のビジョンやいざこざの解決、長期間のプロジェクトのチームビルディングの場合は完全版の 「チームキャンバス」をおススメします。
