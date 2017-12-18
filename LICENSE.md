@@ -1,29 +1,20 @@
-# How To Use Team Canvas
-Making team members click is a matter of time, shared values, complimentary skills and mutual trust. Can you accelerate the process? We bet you can. Follow this elaborate How-To Guide to facilitate team alignment session with Team Canvas.
 
-#Team Canvas Basic
-## Objective
-Team Canvas Basic is a strategic framework that helps team members to kick off projects and align on common vision. Based on our experience with startups and creative groups, it is made to smoothly start collective projects, let people learn about each other and accumulate enough momentum to get going.
+# team-canvas
+Japanese version of Team Canvas http://theteamcanvas.com/
 
-Team Canvas Basic works best at the following touchpoints:
+This is Japanese version following the original license CC BY-SA 4.0.
 
-- creating a team;
-- kicking off a project;
-- welcoming new team member (e.g. freelancer joining the team);
-- basic team alignment meeting.
+# Creative Commons
+## Attribution 4.0 International (CC BY 4.0)
+### You are free to:
+**Share** — copy and redistribute the material in any medium or format
 
-## Onboarding team members
-It's a good idea to get team members on board before using Team Canvas Basic. Here are few ideas of how you might introduce the framework:
+**Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+### Under the following terms:
+**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
-**Starting a team**
-Hey guys! We're starting a team and many of us have never worked with each other before. I've come across this handy tool, Team Canvas Basic, that helps team members to learn most basic things about each other and get aligned on their goals and expectations. The meeting should take about half an hour. Should we try it out?
-
-**Welcoming a team member**
-Hey guys, we have Marie joining the team this week. I thought it might be useful for all of us to take Marie into details with a short Team Canvas session, so we all are on the same page about our goals, roles and team culture. What do you think?
-
-**Basic team alignment**
-Hey guys! I was thinking that we could spend some time to structure the way we work together. There is a good tool for that called Team Canvas. It might help us understand what we do and why, where we aim at and what our guiding principles are, so we are more aligned as a team. What would you say if we schedule half an hour meeting to quickly go through Team Canvas steps?
-
-## Running The Session
-### Duration:
-30-45 minutes
+**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+### Notices:
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
