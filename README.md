@@ -1,19 +1,19 @@
-# How To Use Team Canvas
-Making team members click is a matter of time, shared values, complimentary skills and mutual trust. Can you accelerate the process? We bet you can. Follow this elaborate How-To Guide to facilitate team alignment session with Team Canvas.
+# チームキャンバスの使い方
+チームメンバーの活性化は時間、共有する価値、保管するスキルとお互いの信頼がカギです。この醸成を加速させることができるでしょうか。このガイドを使いチームキャンバスのセッションを通じてチームの方向性を一つにまとめてみましょう。「チームキャンバス」とその簡易版の「チームキャンバスベーシック」の両方についてそれぞれ説明します。
 
-# Team Canvas Basic
-## Objective
-Team Canvas Basic is a strategic framework that helps team members to kick off projects and align on common vision. Based on our experience with startups and creative groups, it is made to smoothly start collective projects, let people learn about each other and accumulate enough momentum to get going.
+# チームキャンバスベーシック
+## 目的
+簡易版の「チームキャンバスベーシック」はプロジェクトをスタートさせたり、共通のビジョンに向けてまとまるための戦略的フレームワークです。私たちのスタートアップやクリエイティブなプロジェクトでの経験を通じて作成しています。プロジェクトでのチームワークをスムースに進められるよう、お互いのことを学び推進力を蓄積します。
 
-Team Canvas Basic works best at the following touchpoints:
+「チームキャンバスベーシック」は以下のケースで使うと効果的です。
 
-- creating a team;
-- kicking off a project;
-- welcoming new team member (e.g. freelancer joining the team);
-- basic team alignment meeting.
+- チームの発足
+- プロジェクトの発足
+- 新しいメンバーの迎え入れ (例：フリーランスの人がチームに参加など)
+- 基本的なチームの結束強化
 
-## Onboarding team members
-It's a good idea to get team members on board before using Team Canvas Basic. Here are few ideas of how you might introduce the framework:
+## オンボーディング
+「チームキャンバスベーシック」をはじめる前にオンボーディングをすることをおススメします。いくつかオンボーディングのアイデアをご紹介します。
 
 **Starting a team**
 Hey guys! We're starting a team and many of us have never worked with each other before. I've come across this handy tool, Team Canvas Basic, that helps team members to learn most basic things about each other and get aligned on their goals and expectations. The meeting should take about half an hour. Should we try it out?
