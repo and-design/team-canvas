@@ -88,25 +88,25 @@ team lead or team member
 - IoTの分野におけるイノベーションで人がストレスなく暮らすことができるようにする
 
 #### 4. 価値 [5分間]
-Ask the team what are the core values - the most important principles - that they want to share within the team. The team should agree on values, so everyone accepts the final set.
+中心となる価値について聞いてください。チームで共有したいもっとも重要なプリンシパル。チームが勝ちについて合意することにより最後のエリアの合意をすることとなります。
 
-Questions:
+質問:
 
 - What do we stand for?
-- What are guiding principles?
-- What are our common values that we want to be at the core of our team?
+- 私たちにとっての基本原則は?
+- 共通の価値の中で中心とすべきものは?
 
-Examples:
+例:
 
-- Trust
-- Creativity
-- Quality
-- Transparency
-- Mutual understanding
-- Equality
-- Respect
+- 信頼
+- 創造性
+- 品質
+- 透明性
+- 相互理解
+- 平等
+- リスペクト
 
-#### 5. Rules & Activities [10 minutes]
+#### 5. ルールと活動 [10分間]
 Ask the team to agree on common rules and activities. Think of this as of outcome of the previous sections: a concrete set of rules and activities they want to implement.
 
 Questions:
@@ -125,12 +125,12 @@ Examples:
 - Workday: starting from 9 to 10, meetings start at 10
 - Keeping workday to 8 hours, except when it’s needed to shorten it a bit towards more
 
-#### Wrap up [5 minutes]
+#### まとめ [5分間]
 As you close The Team Canvas workshop, ask the team members to tell about one single most important insight that they gained during the workshop.
 
 It is recommended to repeat the Teamwork Canvas session with each new member joining the team.
 
-### Strategy
+### 戦略
 Team Canvas Basic consists of 3 key areas:
 
 1. What the team is: roles and goals
