@@ -261,25 +261,25 @@ As you know, we are a small team and getting a new person on board is a big deci
 - 平等
 - リスペクト
 
-#### 6. Strengths & Assets [15 minutes]
-Ask the team to share the key pieces of skills (both hard skills and soft skills) and assets available within the team. Don't dismiss ‘insignificant’ stuff. You might find that the team has capacity for martial arts, running marathons or persuading people. Encourage people to share something about themselves, as well as note important qualities they see in their teammates.
+#### 6. 強みと資産 [15分]
+チームに主なスキル(ソフトスキルとハードスキルの両方)そしてチーム内の資産を共有してもらいます。出されたことを「重要ではない」と判断しないように。例えば「格闘」、「マラソン」や「人を説得する力」など出てくるでしょう。自分の強み、そして自分から見たチームの強みを共有するよう促しましょう。
 
-Questions:
+質問:
 
-- What are the skills we have in the team that will help us to achieve our goals?
-- What are interpersonal/soft skills that we have?
-- What are we good at, individually and as a team?
+- ゴールを達成するために私たちが持っているスキルはなんでしょうか?
+- どのような内面的なソフトスキルを持っていますか?
+- チームとして個人として何が得意ですか?
 
-Examples:
+例:記録
 
-- Coding (iOS/Python/etc.)
-- Design
+- コーディング (iOS/Python/etc.)
+- デザイン
 - Being devoted and driven
-- Being visionary
-- Energy
-- Sales & pitching
+- ビジョナリー
+- エネルギー
+- 営業とピッチ
 
-#### 7. Weaknesses & Development Areas [15 minutes]
+#### 7. 弱みと開発エリア [15 minutes]
 Ask the team to share the key weaknesses and areas for improvement that they see in themselves, as well as obstacles they face as a team. Make an accent on reporting what people can find in themselves, rather than discussing other’s weaknesses.
 
 Questions:
