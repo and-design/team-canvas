@@ -205,61 +205,61 @@ As you know, we are a small team and getting a new person on board is a big deci
 - マックス: CEO; マリー: デザイン
 - チーム名: ボールドカー
 
-#### 2. Common goals [10 minutes]
-Ask the team to agree on common goals.
+#### 2. 共通のゴール [10分間]
+共通のゴールについて合意します。
 
-Questions:
+質問:
 
-- What you as a group really want to achieve? What is our key goal that is feasible, measurable and time-bounded?
+- このグループは何を達成したいのでしょうか？実行可能な、計測可能な、時間内に達成できるゴールは何でしょうか？
 
-Examples:
+例:
 
-- Become the leading car sharing company in our region by 2017.
-- Create a 100M company in the area of Internet of Things by fall 2016.
+- 2018年までに地域で一番のカーシェアになる
+- 2019年の秋までにIoTの分野で100億円企業となる
 
-#### 3. Personal goals [5 minutes]
-Ask the team members about their individual goals they have for the project.
+#### 3. 個人のゴール [5分間]
+チームメンバーにそれぞれのこのプロジェクトを通じての個人的なゴールを質問します。
 
-Questions:
+質問:
 
-- What are our individual personal goals for this project?
-- Are there personal agendas that we want to open up?
+- このプロジェクトにおける個人のゴールはなんですか?
+- みんなとシェアできる個人的な目標はありますか?
 
-Examples:
+例:
 
-- Become more confident at iOS development [Marie]
+- iOSの開発にもっと自信が持てるようになる [マリー]
 
-#### 4. Purpose [10 minutes]
-Ask the team to go one step beyond their common goal, and ask them why they do what they do.
+#### 4. 目的 [10分間]
+共通のゴールから一歩進んで、「なぜそれをやるのか」を聞いてください。
 
-Questions:
+質問:
 
-- Why are we doing what we are doing in the first place?
-- What is something more important, which makes us pursue our common goal?
+- なぜそもそもそれをやるんですか?
+- 共通のゴールを追いかける原動力となるもっと大事なことは何ですか?
 
-Examples:
+例:
 
-- Create positive impact on people's lives through social innovation
-- Make people’s life easier and stress-free through internet of things innovation
+- ソーシャルイノベーションを通じて人々の暮らしにポジティブなインパクトを与える
+- IoTの分野におけるイノベーションで人がストレスなく暮らすことができるようにする
 
-#### 5. Values [10 minutes]
-Ask the team what are the core values - the most important principles - that they want to share within the team. The team should agree on values, so everyone accepts the final set.
+#### 5. 価値 [10分間]
+中心となる価値について聞いてください。チームで共有したいもっとも重要なプリンシパル。チームが勝ちについて合意することにより最後のエリアの合意をすることとなります。
 
-Questions:
+質問:
 
-- What do we stand for?
-- What are guiding principles?
-- What are our common values that we want to be at the core of our team?
+- 私たちは何を代表しているのでしょうか?
+- 私たちにとっての基本原則は?
+- 共通の価値の中で中心とすべきものは?
 
-Examples:
+例:
 
-- Trust
-- Creativity
-- Quality
-- Transparency
-- Mutual understanding
-- Equality
-- Respect
+- 信頼
+- 創造性
+- 品質
+- 透明性
+- 相互理解
+- 平等
+- リスペクト
 
 #### 6. Strengths & Assets [15 minutes]
 Ask the team to share the key pieces of skills (both hard skills and soft skills) and assets available within the team. Don't dismiss ‘insignificant’ stuff. You might find that the team has capacity for martial arts, running marathons or persuading people. Encourage people to share something about themselves, as well as note important qualities they see in their teammates.
