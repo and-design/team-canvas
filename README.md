@@ -28,11 +28,11 @@ Hey guys! I was thinking that we could spend some time to structure the way we w
 
 ### セッション概要
 #### 時間:
-30-45 minutes
+30-45分
 #### 参加者:
-2 - 8
+2 - 8人
 #### 進行:
-team lead or team member
+チームリーダーまたはメンバー
 
 準備するもの:
 - 「チームキャンバスベーシック」をホワイトボードまたは大きな紙（フリップチャートなど）に描く
@@ -144,21 +144,18 @@ team lead or team member
 「チームキャンバスベーシック」は短期間のプロジェクトや新しいしチームの発足に適しています。共通のビジョンやいざこざの解決、長期間のプロジェクトのチームビルディングの場合は完全版の 「チームキャンバス」をおススメします。
 
 ## チームキャンバス
-### Objective
-Team Canvas is a strategic framework that helps bring team members on the same page. Based on our experience with startup teams and creative agencies, it is made to align teams, increase cohesion and performance and to create productive team culture, fast.
+### 目的
+「チームキャンバスベーシック」は共通のビジョンに向けてチームをまとまるための戦略的フレームワークです。私たちのスタートアップやクリエイティブなプロジェクトでの経験を通じて作成しています。チーム方向性を合わせ、結束を強め、クリエイティブな文化を早く醸成できるようデザインされています。
 
-Team Canvas works across multiple touchpoints:
+「チームキャンバスベーシック」は以下のケースで使うと効果的です。
 
-- creating a team;
-- clarifying goals and addressing overall team performance (e.g. when you feel stuck as a team, or when you need to get a lot of stuff done);
-- growing and onboarding new team members;
-- general alignment sessions (recommended every 2-3 months).
-
-Example: Team Canvas
+- チームの発足
+- ゴールを明確にしてチームの全体的なパフォーマンスを考える (例：チームとして壁にぶつかっている時、仕事量が多く様々なことをやらなければいけない時)
+- 成長して新しいメンバーを迎え入れる時
+- 一般的な方向づけの多mのセッション（四半期に一度やることをオススメします）
 
 ### オンボーディング
-Before you use the canvas, make sure to get everyone in the team on board to do it. You might want to take a lead and suggest the tool to your team. Here are a couple of ways to introduce the framework:
-
+「チームキャンバスベーシック」をはじめる前にオンボーディング（紹介）をすることをおススメします。いくつかオンボーディングのアイデアをご紹介します。
 
 **Starting a team**
 Hey guys! Since we are forming the team now, I’d like to propose to do a session on creating our team structure and getting to know each other. Each of us might have had one of those previous experiences with teams when things didn’t really go that well. So why don’t we invest some time to make sure we are aligned and ready for a kickoff?
@@ -173,37 +170,40 @@ As you know, we are a small team and getting a new person on board is a big deci
 
 ### セッション概要
 #### 時間:
-90-120 minutes
-#### Participants:
-2 - 8
-#### Facilitation:
-team lead or external facilitator
+90-120分
+#### 参加者:
+2 - 8人
+#### 進行:
+チームリーダーまたは外部の講師
 
 準備するもの:
-
-- Team Canvas recreated on a whiteboard, or on a big enough piece of paper (e.g. flipchart paper or A0/A1)
-- Blocks of sticky notes, one for each participant, different colors
-- Sharpies or pens to write on stickies
-- A device with timer function
+- 「チームキャンバスベーシック」をホワイトボードまたは大きな紙（フリップチャートなど）に描く
+- 様々な色の付箋紙
+- 付箋紙に描くためのペン（字がよく読めるように太字のもの）
+- 時間が測れるもの
 
 ### 進め方
-Introduce the team canvas as a tool to align the team members and get better at understanding goals, roles and values of your team.
+「チームキャンバスを」チームの方向性をまとめるためのツールとして紹介してください。このセッションでチームのゴール、役割、価値の理解を促進します。
 
-Go through each step with the team, making sure you ask the questions for each segment. Encourage people to write their answers on stickies and talk about them with the team. There are fields that all team should agree on: 1. People and Roles; 2. Goals; 4. Purpose; 5. Values; 9. Rules and culture. The rest of the fields can be filled individually, with no particular need to be agreed upon.
+チームとここで説明するステップを進んでください。それぞれのエリアで質問することを心掛けてください。答えを付箋紙に描き、それについて話し合うようにチームを導いてください。There are fields that all team should agree on: 1. People and Roles; 2. Goals; 4. Purpose; 5. Values; 9. Rules and culture.それぞれのエリアでの合意形成をするようにしてください。それ以外のエリアは合意せずにそれぞれ行ってください。
 
-#### 1. People & Roles [5 minutes]
-Ask people to put their names on stickies, as well as their roles. If a person has multiple roles, use separate post-its.
+タイマーを使ってそれぞれのステップをタイトにしましょう。チームがフォーカスしてポイントを絞った議論ができるよう促しましょう。
 
-Questions:
+もし、大きな課題に当たり、議論に時間がかかりそうな場合は「パーキングロット」にその議題を入れておいて、「チームキャンバス」の後に別の話し合いの機会を設けるようにしましょう。
 
-- What are our names?
-- What are the roles we have in the team?
-- How are we called as a team?
+#### 1. 役割とスキル [5分間]
+付箋紙に自分の名前と役割を書いてください。複数の役割がある場合は複数の付箋紙を使ってください。
 
-Examples:
+質問:
 
-- Max: CEO; Marie: Design & Programming
-- Name of the team: BoldCar
+- 名前は何ですか?
+- チームでの役割は何ですか?
+- チームの名前は何ですか?
+
+例:
+
+- マックス: CEO; マリー: デザイン
+- チーム名: ボールドカー
 
 #### 2. Common goals [10 minutes]
 Ask the team to agree on common goals.
