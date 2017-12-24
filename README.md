@@ -285,37 +285,37 @@ Examples:
 - Fun
 - Stability
 
-#### 9. Rules & Activities [10 minutes]
-Ask the team to agree on common rules and activities. Think of this as of outcome of the previous sections: a concrete set of rules and activities they want to implement.
+#### 9. ルールと活動 [10分間]
+ルールと活動について合意してください。これまでのエリアの結果だと考えてください。チームで導入したいルールや活動を考えてください。
 
-Questions:
+質問:
 
-- What are the rules we want to introduce after doing this session?
-- How do we communicate and keep everyone up to date?
-- How do we make decisions?
-- How do we execute and evaluate what we do?
+- このセッションの後チームで導入したいルールは何でしょうか?
+- メンバーと意思疎通をして情報がいきわたるようにするにはどうしたらいいでしょうか?
+- どのように物事を決めていきますか?
+- どのように実行して評価していきますか?
 
-Examples:
+例:
 
-- Keeping things within group confidential
-- Weekly status updates
-- Communication over Slack + Skype for calls
-- Dinners together every second week (Max as organizer)
-- Workday: starting from 9 to 10, meetings start at 10
-- Keeping workday to 8 hours, except when it’s needed to shorten it a bit towards more
+- 情報はグループ内にとどめておく
+- 週次報告
+- SlackとSkypeでコミュニケーションする
+- 月の第二週にチームディナーをする（マックスが主催）
+- 稼働日: 9時から10時の間に始業。ミーティングは10時から
+- 稼働時間は8時間かそれ以内
 
-#### Wrap up [5 minutes]
-As you close The Team Canvas workshop, ask the team members to tell about one single most important insight that they gained during the workshop.
+#### まとめ [5分間]
+「チームキャンバス」セッションの終わりに、各メンバーに一番の学びのポイントを聞いてください。
 
 ### Strategy
-When using complete Team Canvas, it is good to keep in mind that it consists of 4 parts:
+### 戦略
+「チームキャンバスベーシック」には三つのエリアがあります:
 
-1. What the team is: roles and goals (both common and personal)
-1. Why the team is doing what it's doing: purpose and values
-1. Who are the team members: their strengths, weaknessess and needs
-How the team is going to achieve what it needs to achieve: rules and activities
-As a facilitator of the session, you might be often asked something like this: ‘How are we supposed to answer this question? What is that you expect us to say here?’, etc. It is important to understand that The Team Canvas creates context for the team, rather then content, and therefore all answers are valid. Gently reply to such questions: 'How would you answer if you knew? What do you think the answer should be?'
+1. チームは何か: 役割とゴール
+1. なぜ活動するのか: 目的と価値
+1. どのように達成するのか: ルールと活動
 
-It would be a good idea to to park conversations that seem to take too much time of the team and arrange separate meetings to address these issues.
+セッションの進行役として、チームからこのような質問を受けると思います。「どのように答えたらいいですか? 」「ここではどういう回答を期待していますか?」など。「チームキャンバス」はコンテントを作る作業ではなくコンテキストを作る作業です。つまり、どのような回答でも構いません。新設にこのように回答してください。「それを知っていたらどのように回答しますか?回答はどうあるべきでしょうか?」
 
-We recommend to repeat Team Canvas sessions once in a while, especially when a new team members join.
+セッションと関係がないけれども重要な課題は「パーキングロット」にいれて、セッションの後で議論をする機会を設けましょう。チームキャンバスのセッションは定期的に開催することを
+オススメします。特に新しいメンバーが参加した時に有効です。
