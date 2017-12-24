@@ -269,21 +269,21 @@ http://theteamcanvas.com/use/
 - 構造的なコミュニケーションがない [一般], etc.
 
 #### 8. ニーズと期待 [10分間]
-Ask the team to express the needs they have in order to be successful. Think of this as a follow up to previous two sections: once team members expressed their strengths and weaknesses, they should be able to express the needs they have to amplify strengths and be at their best despite the weaknesses.
+チームに成功のために必要なニーズを発表してもらいましょう。前の二つのセクション（強みと弱み）を念頭に置いてもらいましょう。強みをさらに伸ばして弱点を克服するには何が必要でしょうか。
 
-Questions:
+質問:
 
-- What does each member of the team needs to be successful?
-- How the team could help each member with their needs?
+- チームメンバーそれぞれが成功するには何が必要でしょうか？
+- そのニーズをチームがどのように支援できる？
 
-Examples:
+例:
 
-- Some «me time»
-- More clear weekly status updates
-- Help and coaching
-- Trust
-- Fun
-- Stability
+- 自分だけの時間が欲しい
+- もっと明確な週次報告
+- コーチング
+- 信頼
+- 楽しい職場
+- 安定
 
 #### 9. ルールと活動 [10分間]
 ルールと活動について合意してください。これまでのエリアの結果だと考えてください。チームで導入したいルールや活動を考えてください。
