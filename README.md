@@ -254,21 +254,21 @@ http://theteamcanvas.com/use/
 - 営業とピッチ
 
 #### 7. 弱みと開発エリア [15 minutes]
-Ask the team to share the key weaknesses and areas for improvement that they see in themselves, as well as obstacles they face as a team. Make an accent on reporting what people can find in themselves, rather than discussing other’s weaknesses.
+チームに主な弱み、そして改善しなければいけないことや課題を共有してもらいます。他人ではなく、自分自身の弱みについて語ってもらうようにしましょう。
 
-Questions:
+質問:
 
-- What are the weaknesses we have, individually and as a team?
-- What our teammates should know about us?
-- What are some obstacles we see ahead us that we are likely to face?
+- 私たちの弱みはなんでしょう？個人として、そしてチームとして。
+- 私たちのチームメンバーが私たち自身について知らないといけないことは？
+- 私たちがこれから突き当たるであろう壁はなんでしょうか？
 
-Examples:
+例:
 
-- Easily distracted [Marie]
-- Can be arrogant [Max]
-- Lack of structured communication [general], etc.
+- 集中できない [マリー]
+- 尊大な態度をとる [マックス]
+- 構造的なコミュニケーションがない [一般], etc.
 
-#### 8. Needs & Expectations [10 minutes]
+#### 8. ニーズと期待 [10分間]
 Ask the team to express the needs they have in order to be successful. Think of this as a follow up to previous two sections: once team members expressed their strengths and weaknesses, they should be able to express the needs they have to amplify strengths and be at their best despite the weaknesses.
 
 Questions:
