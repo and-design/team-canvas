@@ -14,18 +14,6 @@ http://theteamcanvas.com/use/
 - 新しいメンバーの迎え入れ (例：フリーランスの人がチームに参加など)
 - 基本的なチームの結束
 
-### オンボーディング
-「チームキャンバスベーシック」をはじめる前にオンボーディング（紹介）をすることをおススメします。いくつかオンボーディングのアイデアをご紹介します。
-
-**チームの発足**
-Hey guys! We're starting a team and many of us have never worked with each other before. I've come across this handy tool, Team Canvas Basic, that helps team members to learn most basic things about each other and get aligned on their goals and expectations. The meeting should take about half an hour. Should we try it out?
-
-**新しいメンバーの迎え入れ**
-Hey guys, we have Marie joining the team this week. I thought it might be useful for all of us to take Marie into details with a short Team Canvas session, so we all are on the same page about our goals, roles and team culture. What do you think?
-
-**チームの結束**
-Hey guys! I was thinking that we could spend some time to structure the way we work together. There is a good tool for that called Team Canvas. It might help us understand what we do and why, where we aim at and what our guiding principles are, so we are more aligned as a team. What would you say if we schedule half an hour meeting to quickly go through Team Canvas steps?
-
 ### セッション概要
 #### 時間:
 30-45分
@@ -153,20 +141,6 @@ Hey guys! I was thinking that we could spend some time to structure the way we w
 - ゴールを明確にしてチームの全体的なパフォーマンスを考える (例：チームとして壁にぶつかっている時、仕事量が多く様々なことをやらなければいけない時)
 - 成長して新しいメンバーを迎え入れる時
 - 一般的な方向づけの多mのセッション（四半期に一度やることをオススメします）
-
-### オンボーディング
-「チームキャンバスベーシック」をはじめる前にオンボーディング（紹介）をすることをおススメします。いくつかオンボーディングのアイデアをご紹介します。
-
-**Starting a team**
-Hey guys! Since we are forming the team now, I’d like to propose to do a session on creating our team structure and getting to know each other. Each of us might have had one of those previous experiences with teams when things didn’t really go that well. So why don’t we invest some time to make sure we are aligned and ready for a kickoff?
-
-
-**Team adjustment**
-Hey guys, our work was a bit fuzzy lately, and I thought we could spend some time clearing things up and getting on the same page. There is a good tool for it called Team Canvas, which may help us get aligned and a bit more structured as a team. What do you say if we use it for an alignment session?
-
-
-**Onboarding new member**
-As you know, we are a small team and getting a new person on board is a big decision. We want to make sure we all agree on core things and will work great together. What do you say if we run a session with this tool, The Team Canvas, making sure we are aligned on our vision and core values, and have a match?
 
 ### セッション概要
 #### 時間:
